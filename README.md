@@ -25,6 +25,7 @@ Inspired by [Swayx's auto typer](https://github.com/Swayx113/dank-memer-auto-typ
 
 # Notes
 - If you do the same single command too amny times in a row, or constantly hit cooldowns on the bot, your account will get flagged for macro
+- if you use it for too long (more than 2 hours?) or level up more than 600(they can change this number) levels in a row, you'll get flagged
 - You can customize the cooldowns as you see fit in `cooldowns.py`. Sometimes they'll need to be changed because of bot lag
 - As of 31-Jan-2021, sending a dank memer command after rare catches from fish and hunt will not kill the user. But if the bug is fixed, life savers will be needed to not lose coins
 - This is not the typical self bot as it does not use discord's bot features (using discord API), it's a macro that can type anywhere. It also cannot read any messages, it only sends what it is told to
