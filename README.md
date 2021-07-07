@@ -6,7 +6,7 @@ Inspired by [Swayx's auto typer](https://github.com/Swayx113/dank-memer-auto-typ
 
 ## Download and install  -
 1. Download and install python from the [official website](https://www.python.org/downloads/)
-2. Download the files `mainfile.py`, `config.py`, and `cooldowns.py` from this repository
+2. Download the files `mainfile.py`, `config.py`, `requirements.txt`, and `cooldowns.py` from this repository
 3. Open command prompt in the directory containing the files and send `pip install -r requirements.txt`
 <br> This will download the library `pynput` through which we can send the messages 
 
