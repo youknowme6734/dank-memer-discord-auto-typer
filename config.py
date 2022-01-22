@@ -1,13 +1,13 @@
-beg= True
+beg= False
 pink= False
-buyj= True
-hunt= True
-fish= True
-pm= True
-bet= True
-slots= True
-hl= True
-dep= True
+buyj= False
+hunt= False
+fish= False
+pm= False
+bet= False
+slots= False
+hl= False
+dep= False
 #id of the user reciving the pink
 send_id =270904126974590976  #dank memer's id
 
